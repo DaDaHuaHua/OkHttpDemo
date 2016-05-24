@@ -1,0 +1,442 @@
+[
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\x_circle_pop_right.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\x_circle_pop_right.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_update.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\dialog_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_alert_dialog.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\umeng_socialize_full_alert_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_titile_bar.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\umeng_socialize_titile_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_ucenter_platform_item.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\umeng_socialize_ucenter_platform_item.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_view_bottom.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\dialog_view_bottom.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_with_num.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\gallery_with_num.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_failed_load_page.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\umeng_socialize_failed_load_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_view.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\umeng_socialize_at_view.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_view_title.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\dialog_view_title.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_content.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\umeng_socialize_comment_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_item.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\umeng_socialize_at_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\tip_network_error.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\tip_network_error.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_view.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\dialog_view.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_composer_header.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\umeng_socialize_composer_header.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_pull_to_refresh_header.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\umeng_socialize_pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_failed_load_page.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\umeng_socialize_failed_load_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\notification_execute.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\notification_execute.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_post_comment_platform.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\umeng_socialize_post_comment_platform.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\base_share_dialog.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\base_share_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_post_comment_platform.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\umeng_socialize_post_comment_platform.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_num_item.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\gallery_num_item.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_titile_bar_comment.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\umeng_socialize_titile_bar_comment.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_list_item.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\dialog_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\x_circle_pop_list_item.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\x_circle_pop_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_common_download_notification.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\umeng_common_download_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_actionbar.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\umeng_socialize_actionbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_titile_bar_comment.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\umeng_socialize_titile_bar_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_shareboard_item.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\umeng_socialize_shareboard_item.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\x_circle_pop_right.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\x_circle_pop_right.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\num_bar_horizontal.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\num_bar_horizontal.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_alert_dialog.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\umeng_socialize_full_alert_dialog.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_titile_bar.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\umeng_socialize_titile_bar.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\x_circle_pop_list_item.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\x_circle_pop_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_alert_dialog_item.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\umeng_socialize_full_alert_dialog_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_post_share.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\umeng_socialize_post_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\base_share_dialog_item.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\base_share_dialog_item.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\common_fram_warn.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\common_fram_warn.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_view_center.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\dialog_view_center.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_ucenter.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\umeng_socialize_ucenter.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\progress_bar.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\progress_bar.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_bind_select_dialog.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\umeng_socialize_bind_select_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_base_alert_dialog.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\umeng_socialize_base_alert_dialog.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\num_bar.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\num_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\common_fram_warn.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\common_fram_warn.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_more.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\umeng_socialize_comment_more.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_detail_nomap.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\umeng_socialize_comment_detail_nomap.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_view.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\umeng_socialize_comment_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_post_comment.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\umeng_socialize_post_comment.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_post_comment.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\umeng_socialize_post_comment.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\base_share_dialog_item.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\base_share_dialog_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\num_bar_horizontal.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\num_bar_horizontal.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_overlay.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\umeng_socialize_at_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_view.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\dialog_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_bind_select_dialog.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\umeng_socialize_bind_select_dialog.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_item.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\umeng_socialize_comment_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_detail_nomap.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\umeng_socialize_comment_detail_nomap.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_base_alert_dialog.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\umeng_socialize_base_alert_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_overlay.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\umeng_socialize_at_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_view_bottom.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\dialog_view_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_view2.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\dialog_view2.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_view2.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\dialog_view2.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\num_bar.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\num_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_ucenter.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\umeng_socialize_ucenter.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\progress_bar.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\progress_bar.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_ucenter_platform_item.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\umeng_socialize_ucenter_platform_item.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_simple_spinner_item.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\umeng_socialize_simple_spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_update.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\dialog_update.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\notification_succeed.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\notification_succeed.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\horizontalscrollview.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\horizontalscrollview.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_actionbar.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\umeng_socialize_actionbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_oauth_dialog.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_list_item.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\dialog_list_item.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_oauth_dialog.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\tip_network_error.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\tip_network_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_num_item.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\gallery_num_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_composer_header.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\umeng_socialize_composer_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_view_center.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\dialog_view_center.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\horizontalscrollview.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\horizontalscrollview.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\base_share_dialog.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\base_share_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_curtain.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\umeng_socialize_full_curtain.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_detail.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\umeng_socialize_comment_detail.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_post_share.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\umeng_socialize_post_share.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_alert_dialog_item.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\umeng_socialize_full_alert_dialog_item.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_view.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\umeng_socialize_at_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_shareboard_item.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\umeng_socialize_shareboard_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_with_num.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\gallery_with_num.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_view.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\umeng_socialize_comment_view.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\notification_execute.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\notification_execute.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_more.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\umeng_socialize_comment_more.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_common_download_notification.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\umeng_common_download_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_simple_spinner_item.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\umeng_socialize_simple_spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_view_title.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\dialog_view_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\notification_succeed.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\notification_succeed.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_content.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\umeng_socialize_comment_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_base_alert_dialog_button.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\umeng_socialize_base_alert_dialog_button.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_detail.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\umeng_socialize_comment_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_pull_to_refresh_header.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\umeng_socialize_pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\loading_warn.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\loading_warn.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_item.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\umeng_socialize_comment_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\loading_warn.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\layout\\loading_warn.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_base_alert_dialog_button.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\umeng_socialize_base_alert_dialog_button.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_curtain.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\umeng_socialize_full_curtain.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_item.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\layout\\umeng_socialize_at_item.xml"
+    }
+]

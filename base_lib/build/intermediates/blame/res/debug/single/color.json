@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\color\\vpi__dark_theme.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\color\\vpi__light_theme.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\color\\vpi__dark_theme.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\color\\vpi__light_theme.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\color\\vpi__light_theme.xml"
+    }
+]

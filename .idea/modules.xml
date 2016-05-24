@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OkHttpDemo.iml" filepath="$PROJECT_DIR$/OkHttpDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base_afinal/base_afinal.iml" filepath="$PROJECT_DIR$/base_afinal/base_afinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base_lib/base_lib.iml" filepath="$PROJECT_DIR$/base_lib/base_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libjpeg_trubo/libjpeg_trubo.iml" filepath="$PROJECT_DIR$/libjpeg_trubo/libjpeg_trubo.iml" />
+    </modules>
+  </component>
+</project>

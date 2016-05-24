@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="100dp"
+    android:layout_height="100dp"
+    android:background="#000000"
+    android:gravity="center" >
+<!--  android:background="@drawable/dialogbg" -->
+    <com.gaiay.base.widget.n.dialog.ControlChildTouchRelativeLayout
+        android:id="@+id/dv_layout2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#ff0000" >
+
+        <RelativeLayout
+            android:id="@+id/dv_layout_center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#00ff00"
+            android:layout_centerInParent="true" />
+    </com.gaiay.base.widget.n.dialog.ControlChildTouchRelativeLayout>
+
+</RelativeLayout>

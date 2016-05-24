@@ -1,0 +1,1786 @@
+[
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_action_comment_normal.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_action_comment_normal.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_follow_check.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_follow_check.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\focus_bg.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\focus_bg.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_douban_off.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_douban_off.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_tenc2.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_tenc2.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_at_label_bg.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_at_label_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_sms1.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_sms1.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_btn_cancel.9.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_btn_cancel.9.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_button_login_normal.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_button_login_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_fetch_location.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_fetch_location.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_action_share_normal.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_action_share_normal.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_23.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\loading_23.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_share_video.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_share_video.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_shape_bt.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_shape_bt.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\x_circle_pop_window_back_top.9.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\x_circle_pop_window_back_top.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\x_circle_pop_window_back_top.9.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\x_circle_pop_window_back_top.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_location_ic.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_location_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_sidebar_normal.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_sidebar_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_sina_on.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_sina_on.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_button_red.9.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_button_red.9.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_wx1.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_wx1.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_send_button_nor.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_send_button_nor.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_divider_line.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_divider_line.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_bianji.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\icon_bianji.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_24.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\loading_24.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_23.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\loading_23.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_sms.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_sms.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_tx_off.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_tx_off.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_zm2.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_zm2.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_button_blue.9.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_button_blue.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_comment_bg.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_comment_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_bg_gridview.9.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_bg_gridview.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_pulltorefresh_arrow.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_pulltorefresh_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_qq.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_qq.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_follow_off.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_follow_off.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_nav_bar_bg.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_nav_bar_bg.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_title_back_bt_selected.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_title_back_bt_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_location_mark.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_location_mark.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_sidebar_selected.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_sidebar_selected.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_action_like.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_action_like.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_boss2.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_boss2.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_08.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_face_08.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_action_personal_selected.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_action_personal_selected.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_send_button_sel.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_send_button_sel.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_widget_horview_normal_bg_right.9.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\base_widget_horview_normal_bg_right.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_bg_shareitem_sel.9.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_bg_shareitem_sel.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_comment_item_bg_shape.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_comment_item_bg_shape.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_submit2.9.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\btn_submit2.9.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_qzone_off.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_qzone_off.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_submit1.9.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\btn_submit1.9.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_bianji.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\icon_bianji.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_fetch_image_disabled.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_fetch_image_disabled.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_tea1.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\loading_tea1.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_yuandian_b.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\icon_yuandian_b.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_qzone_off.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_qzone_off.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_twitter.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_twitter.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_fetch_location.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_fetch_location.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_11.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_face_11.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_button_white.9.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_button_white.9.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_pv.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_pv.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_01.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_face_01.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_progressbar.9.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\notification_progressbar.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_oauth_check_off.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_oauth_check_off.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_window_shadow_pad.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_window_shadow_pad.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_at_label_bg.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_at_label_bg.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_bind_select_bg.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_bind_select_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_bottom_bg.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\dialog_bottom_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_x_button.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_x_button.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_share_music.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_share_music.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_10.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_face_10.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_widget_horview_normal_bg_right.9.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\base_widget_horview_normal_bg_right.9.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_qq_login.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_qq_login.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_210.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\loading_210.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_tenc2.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_tenc2.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_zm2.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_zm2.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_wxcircle2.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_wxcircle2.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\slide_shadowright.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\slide_shadowright.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_title_tab_left_pressed.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_title_tab_left_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_yuandian_s.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\icon_yuandian_s.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_location_ic.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_location_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_hv.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\notification_bg_hv.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_02.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_face_02.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_action_personal_normal.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_action_personal_normal.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_shape_solid_black.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_shape_solid_black.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_action_back_normal.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_action_back_normal.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_title_tab_left_normal.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_title_tab_left_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_tea3.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\loading_tea3.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_list_item_radio_2.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\dialog_list_item_radio_2.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_tea2.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\loading_tea2.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_04.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_face_04.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_fram_warn.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\bg_fram_warn.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_shape_bt.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_shape_bt.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_action_share_selected.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_action_share_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_nav_bar_bg_pad.9.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_nav_bar_bg_pad.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_weixin_icon.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_weixin_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_title_tab_button_left.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_title_tab_button_left.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_sms1.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_sms1.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xlistview_arrow.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\xlistview_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_action_unlike.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_action_unlike.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_divider_line.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_divider_line.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_at_search_bg.9.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_at_search_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_widget_horview_normal_bg.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\base_widget_horview_normal_bg.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\x_circle_pop_window_back.9.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\x_circle_pop_window_back.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_qq_off.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_qq_off.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_06.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_face_06.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_09.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_face_09.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_widget_horview_normal_bg_left.9.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\base_widget_horview_normal_bg_left.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\warn_img_data.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\warn_img_data.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_12.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_face_12.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_comment_icon.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_comment_icon.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_title_back_bt_normal.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_title_back_bt_normal.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_sidebar_selector.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_sidebar_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_comment_icon.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_comment_icon.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_shape_hollow_grey.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_shape_hollow_grey.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_26.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\loading_26.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_top_bg.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\dialog_top_bg.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_widget_horview_bg.9.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\base_widget_horview_bg.9.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_renren_on.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_renren_on.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_logo_tenc.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_logo_tenc.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_fetch_image.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_fetch_image.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_actionbar_bg.9.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_actionbar_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_tea4.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\loading_tea4.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_action_back_normal.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_action_back_normal.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_search.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_tenc1.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_tenc1.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_commnet_header_bg.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_commnet_header_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\focus_bg.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\focus_bg.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_title_tab_right_pressed.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_title_tab_right_pressed.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_qq.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_qq.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_follow_check.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_follow_check.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_title_tab_right_normal.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_title_tab_right_normal.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_wxcircel.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_wxcircel.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_tx_on.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_tx_on.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progressbar.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\progressbar.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_douban_on.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_douban_on.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_default_avatar.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_default_avatar.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_fram_warn.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\bg_fram_warn.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_light_bar_bg.9.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_light_bar_bg.9.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_22.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\loading_22.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_wechat.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_location_on.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_location_on.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_wx1.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_wx1.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_wxcircle.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_comment_normal.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_comment_normal.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_comment_bg.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_comment_bg.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_qq1.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_qq1.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pulltorefresh_down_arrow.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\pulltorefresh_down_arrow.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_title_tab_button_left.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_title_tab_button_left.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_sina1.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_sina1.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_button_red_blue.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_button_red_blue.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\warn_img_data.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\warn_img_data.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progressbar_bg.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\progressbar_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_zm1.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_zm1.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_sina2.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_sina2.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_at_button.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_at_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_title_back_bt_normal.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_title_back_bt_normal.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_tea4.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\loading_tea4.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialogbg.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\dialogbg.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_sina_off.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_sina_off.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_oauth_check_on.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_oauth_check_on.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progressbar_bg.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\progressbar_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_dialog_1.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\btn_dialog_1.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_submit2.9.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\btn_submit2.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_location_on.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_location_on.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_widget_horview_normal_bg_left.9.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\base_widget_horview_normal_bg_left.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_12.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_face_12.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_share_video.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_share_video.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_button_blue.9.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_button_blue.9.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_location_mark.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_location_mark.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_shape_solid_grey.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_shape_solid_grey.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_bottom_bg.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\dialog_bottom_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_send_button_nor.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_send_button_nor.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_renren_off.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_renren_off.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_qq_off.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_qq_off.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_input_bar.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_input_bar.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_wxcircle1.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_wxcircle1.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_refersh.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_refersh.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_ucenter_hbg.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_ucenter_hbg.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_01.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_face_01.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_google.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_google.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_dialog_2.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\btn_dialog_2.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_logo_sina.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_logo_sina.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_wx2.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_wx2.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_sidebar_selector.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_sidebar_selector.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sidebar_background.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\sidebar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_shape_cyan.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_shape_cyan.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_title_right_bt.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_title_right_bt.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_action_back_selected.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_action_back_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_boss2.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_boss2.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_comment_selected.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_comment_selected.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_weixin_icon.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_weixin_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_28.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\loading_28.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_action_comment_selected.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_action_comment_selected.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_bg_gridview.9.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_bg_gridview.9.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_facebook.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_qzone_on.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_qzone_on.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_action_item_bg.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_action_item_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_shape_solid_black.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_shape_solid_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\exits_bg.9.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\exits_bg.9.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_update_icon.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\notification_update_icon.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_27.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\loading_27.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_title_right_bt_selected.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_title_right_bt_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_211.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\loading_211.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_light_bar_bg.9.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_light_bar_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_qq_on.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_qq_on.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_gmail.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_gmail.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_actionbar_bg.9.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_actionbar_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_default_avatar.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_default_avatar.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_21.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\loading_21.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\slide_shadowright.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\slide_shadowright.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_08.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_face_08.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_location_grey.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_location_grey.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_share_to_button.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_share_to_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_oauth_check.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_oauth_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_icon.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\notification_icon.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_shape_cyan.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_shape_cyan.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_comment_item_bg_shape.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_comment_item_bg_shape.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_action_back_selected.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_action_back_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg1.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\notification_bg1.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_07.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_face_07.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_24.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\loading_24.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_ucenter_hbg.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_ucenter_hbg.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_wxcircle2.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_wxcircle2.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_nav_bar_bg.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_nav_bar_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_button_white.9.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_button_white.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_tx_on.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_tx_on.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_oauth_check_off.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_oauth_check_off.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_search_icon.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_search_icon.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_06.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_face_06.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_bind_select_bg.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_bind_select_bg.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_follow_off.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_follow_off.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_qq2.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_qq2.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_dialog_1.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\btn_dialog_1.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_huise1.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\btn_huise1.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_button_login.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_button_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_list_item_radio_1.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\dialog_list_item_radio_1.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_send_button_sel.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_send_button_sel.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_button_white_blue.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_button_white_blue.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_icon.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\notification_icon.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_qzone_on.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_qzone_on.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_at_button.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_at_button.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xlistview_arrow.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\xlistview_arrow.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_sina2.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_sina2.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_logo_renren.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_logo_renren.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_share_pic.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_share_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_yuandian_b.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\icon_yuandian_b.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_follow_on.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_follow_on.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shadow.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\shadow.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_tea3.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\loading_tea3.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_29.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\loading_29.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_button_login.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_button_login.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_logo_doub.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_logo_doub.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_25.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\loading_25.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_tx_off.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_tx_off.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_pulltorefresh_arrow.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_pulltorefresh_arrow.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_09.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_face_09.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_shape_solid_grey.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_shape_solid_grey.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_progressbar_bg.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\notification_progressbar_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_qzone1.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_qzone1.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_douban_off.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_douban_off.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_nav_bar_bg_pad.9.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_nav_bar_bg_pad.9.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progressbar.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\progressbar.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_action_share_selected.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_action_share_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_title_tab_button_right.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_title_tab_button_right.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_sms2.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_sms2.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_sidebar_normal.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_sidebar_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\x_circle_pop_window_back.9.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\x_circle_pop_window_back.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_action_like.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_action_like.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_bind_bt.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_bind_bt.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_shareboard_item_background.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_shareboard_item_background.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_list_item_radio_2.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\dialog_list_item_radio_2.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_progressbar.9.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\notification_progressbar.9.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_action_back.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_action_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_widget_horview_bg.9.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\base_widget_horview_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_facebook.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_facebook.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_bg.9.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_bg.9.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_qq_on.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_qq_on.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_211.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\loading_211.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_21.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\loading_21.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_shape_yellow.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_shape_yellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_tea2.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\loading_tea2.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_qq2.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_qq2.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_tea1.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\loading_tea1.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_title_right_bt_normal.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_title_right_bt_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_button_login_pressed.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_button_login_pressed.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pulltorefresh_up_arrow.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\pulltorefresh_up_arrow.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_share_music.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_share_music.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_10.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_face_10.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_huise2.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\btn_huise2.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_at_selected.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_at_selected.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_212.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\loading_212.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_button_grey_blue.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_button_grey_blue.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_comment_normal.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_comment_normal.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialogbg.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\dialogbg.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_x_button.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_x_button.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_action_share_icon.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_action_share_icon.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_bg_shareitem_sel.9.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_bg_shareitem_sel.9.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_zm1.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_zm1.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_shape_yellow.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_shape_yellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sidebar_background.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\sidebar_background.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_hv.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\notification_bg_hv.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_button_grey_blue.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_button_grey_blue.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_button_grey.9.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_button_grey.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_title_tab_right_pressed.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_title_tab_right_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_logo_doub.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_logo_doub.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_29.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\loading_29.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_douban_on.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_douban_on.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_slate_bg.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_slate_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_shape_red.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_shape_red.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_action_item_bg.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_action_item_bg.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_window_shadow_pad.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_window_shadow_pad.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_huise2.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\btn_huise2.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_action_share_icon.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_action_share_icon.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_comment_selected.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_comment_selected.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_button_login_pressed.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_button_login_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shadow.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_bind_bg.9.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_bind_bg.9.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_action_comment_selected.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_action_comment_selected.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_list_item_radio_1.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\dialog_list_item_radio_1.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_qzone1.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_qzone1.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_twitter.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_twitter.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_wx2.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_wx2.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_fetch_image.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_fetch_image.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_light_bar_bg_pad.9.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_light_bar_bg_pad.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_qq_login.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_qq_login.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_share_to_button.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_share_to_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_action_personal_selected.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_action_personal_selected.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_huise1.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\btn_huise1.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_boss1.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_boss1.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_tenc1.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_tenc1.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_logo_tenc.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_logo_tenc.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_oauth_check_on.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_oauth_check_on.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_button_login_normal.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_button_login_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_action_back.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_action_back.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_slate_bg.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_slate_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_title_back_bt_selected.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_title_back_bt_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_button_white_blue.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_button_white_blue.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_shape_red.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_shape_red.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_title_back_bt.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_title_back_bt.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_at_selected.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_at_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_sina_off.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_sina_off.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_shareboard_item_background.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_shareboard_item_background.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_action_share_normal.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_action_share_normal.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_sms.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_sms.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_share_transparent_corner.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_share_transparent_corner.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_03.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_face_03.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_title_right_bt_normal.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_title_right_bt_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_checked.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_checked.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_top_bg.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\dialog_top_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_shape_hollow_grey.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_shape_hollow_grey.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg1.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\notification_bg1.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_sidebar_selected.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_sidebar_selected.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\exits_bg.9.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\exits_bg.9.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_action_unlike.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_action_unlike.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_def_divider.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\list_def_divider.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_22.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\loading_22.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_qzone2.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_qzone2.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_input_bar.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_input_bar.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_sms2.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_sms2.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_bind_bt.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_bind_bt.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_submit1.9.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\btn_submit1.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_follow_on.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_follow_on.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_wxcircel.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_wxcircel.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_title_tab_left_normal.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_title_tab_left_normal.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_location_off.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_location_off.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_11.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_face_11.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_location_grey.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_location_grey.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_btn_cancel.9.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_btn_cancel.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_def_divider.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\list_def_divider.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_yuandian_s.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\icon_yuandian_s.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_renren_on.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_renren_on.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_pv.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_pv.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_search_icon.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_search_icon.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_light_bar_bg_pad.9.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_light_bar_bg_pad.9.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_share_pic.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_share_pic.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_action_personal_normal.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_action_personal_normal.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_title_right_bt.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_title_right_bt.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_fetch_image_disabled.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_fetch_image_disabled.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_07.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_face_07.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pulltorefresh_up_arrow.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\pulltorefresh_up_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_212.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\loading_212.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_boss1.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_boss1.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_action_personal_icon.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_action_personal_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_search.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_28.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\loading_28.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_wechat.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_location_off.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_location_off.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_at_normal.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_at_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_05.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_face_05.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_button_red.9.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_button_red.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_title_back_bt.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_title_back_bt.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_title_tab_right_normal.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_title_tab_right_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_wxcircle1.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_wxcircle1.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_04.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_face_04.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_button_red_blue.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_button_red_blue.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_google.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_google.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_widget_horview_normal_bg.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\base_widget_horview_normal_bg.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_qzone2.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_qzone2.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_fetch_location_disabled.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_fetch_location_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_wxcircle.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_fetch_location_disabled.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_fetch_location_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_commnet_header_bg.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_commnet_header_bg.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_05.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_face_05.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_qq1.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_qq1.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_gmail.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_gmail.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_25.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\loading_25.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_210.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\loading_210.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_action_comment_normal.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_action_comment_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_title_right_bt_selected.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_title_right_bt_selected.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pulltorefresh_down_arrow.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\pulltorefresh_down_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_at_normal.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_at_normal.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_02.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_face_02.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_dialog_2.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\btn_dialog_2.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_bg.9.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_face_03.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_face_03.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_share_transparent_corner.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_share_transparent_corner.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_bind_bg.9.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_bind_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_share_dialog_icon_sina1.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\base_share_dialog_icon_sina1.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_logo_sina.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_logo_sina.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_sina_on.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_sina_on.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_oauth_check.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_oauth_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_at_search_bg.9.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_at_search_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_update_icon.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\notification_update_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_progressbar_bg.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\notification_progressbar_bg.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_26.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\loading_26.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_button_grey.9.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_button_grey.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_action_personal_icon.xml",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_action_personal_icon.xml"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_checked.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_checked.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_title_tab_left_pressed.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_title_tab_left_pressed.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_share_logo_renren.png",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_share_logo_renren.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_renren_off.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_renren_off.png"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_refersh.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_refersh.png"
+    },
+    {
+        "merged": "D:\\zm_21\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_title_tab_button_right.xml",
+        "source": "D:\\zm_21\\base_lib\\src\\main\\res\\drawable-hdpi\\umeng_socialize_title_tab_button_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_27.png",
+        "source": "C:\\Users\\sh\\Desktop\\OkHttpDemo\\base_lib\\src\\main\\res\\drawable-hdpi\\loading_27.png"
+    }
+]

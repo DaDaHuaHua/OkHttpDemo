@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_footer_hint_normal">上拉加载更多</string>
+    <string name="xlistview_footer_hint_nodata">网络状态不佳，请下拉重新加载</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+	<string name="xlistview_footer_hint_nomoredata">没有更多数据</string>
+	
+	<string name="alert_no_more">已没有更多..</string>
+    <string name="alert_refresh">已经是最新..</string>
+    <string name="alert_get_failed">获取失败，请稍后再试</string>
+    <string name="alert_get_success">加载成功..</string>
+    <string name="alert_no_data">没有相关信息..</string>
+    
+    <string name="app_name">该亚应用</string>
+    <string name="app_cid">d377df13b2216283c-7fad</string>
+    <string name="app_id_name">cid</string>
+    <string name="app_id"></string>
+    
+</resources>

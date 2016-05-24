@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dv_layout_title"
+    android:layout_width="fill_parent"
+	android:layout_height="50dp"
+	android:layout_alignParentTop="true"
+	android:background="@drawable/dialog_top_bg"
+    >
+    <ImageView
+    	android:id="@+id/dv_icon"
+        android:layout_width="32dp"
+		android:layout_height="32dp"
+		android:layout_alignParentLeft="true"
+		android:layout_centerVertical="true"
+		android:layout_marginLeft="7dp"
+		android:background="@drawable/icon_bianji"
+        />
+      <TextView 
+        android:id="@+id/dv_title"
+        android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_toRightOf="@+id/dv_icon"
+		android:layout_centerVertical="true"
+		android:layout_marginLeft="7dp"
+		android:layout_marginRight="7dp"
+		android:singleLine="true"
+		android:textColor="#ffffff"
+		android:textSize="19sp"
+		android:text="编辑事项"
+        />
+ </RelativeLayout>

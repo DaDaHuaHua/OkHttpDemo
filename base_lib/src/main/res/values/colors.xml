@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <color name="color_pull_refresh">#A7A7A7</color>
+    
+    <color name="notification_txt">#ff000000</color>
+	
+	<color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="dialog_list_press_true">#bbbbbb</color>
+    <color name="dialog_list_press_false">#ffffff</color>
+    <color name="dialog_list_text">#000000</color>
+    <color name="dialog_text">#000000</color>
+    
+    <color name="x_circle_pop_window_back">#fff7f8fa</color>
+    <color name="x_circle_pop_window_pressed_back">#ff277fbd</color>
+    <color name="x_default_text_color">#ff535353</color>
+    
+</resources>

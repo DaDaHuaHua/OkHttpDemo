@@ -1,0 +1,105 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/notification_bg"
+    tools:ignore="ContentDescription" >
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="42dp"
+        android:layout_height="42dp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10.0dp"
+        android:layout_marginRight="10.0dp"
+        android:background="@drawable/notification_update_icon"
+        android:scaleType="center" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="4dp"
+        android:layout_toRightOf="@id/image" >
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:layout_toLeftOf="@+id/text"
+            android:ellipsize="end"
+            android:focusable="true"
+            android:singleLine="true"
+            android:textColor="@color/notification_txt"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:textColor="@color/notification_txt" />
+        <TextView
+            android:id="@+id/tv_pro"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/title"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:textColor="@color/notification_txt" 
+            />
+		<RelativeLayout 
+		    android:id="@+id/layout1"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/tv_pro"
+            android:layout_alignBottom="@+id/tv_pro"
+            android:layout_toLeftOf="@+id/tv_pro" 
+            android:layout_centerHorizontal="true"
+            android:paddingTop="5dp"
+            android:visibility="invisible"
+		    >
+	        <ProgressBar
+	            android:id="@+id/pro"
+	            style="?android:attr/progressBarStyleHorizontal"
+	            android:layout_width="fill_parent"
+	            android:layout_height="6dp"
+	            android:layout_centerInParent="true"
+		        />
+		</RelativeLayout>
+		<TextView
+            android:id="@+id/tv_pro2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/layout2"
+            android:layout_alignTop="@+id/layout2"
+            android:layout_alignBottom="@+id/layout2"
+            android:layout_marginTop="-3dp"
+            android:layout_marginBottom="-3dp"
+            android:gravity="left|center_vertical"
+            android:textColor="@color/notification_txt" 
+            android:text="正在更新,请稍候..."
+            />
+		<RelativeLayout 
+		    android:id="@+id/layout2"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_alignParentRight="true"
+		    android:layout_marginRight="5dp"
+		    android:layout_below="@+id/title"
+		    >
+	        <ProgressBar
+	            android:id="@+id/pro2"
+	            style="?android:attr/progressBarStyleSmallTitle"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_centerInParent="true"
+		        />
+		</RelativeLayout>
+
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,1 @@
+include ':app', ':base_lib', ':base_afinal', ':libjpeg_trubo'

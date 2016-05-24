@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="base_share_window">
+        <item name="android:windowEnterAnimation">@anim/base_share_window_in</item>
+        <item name="android:windowExitAnimation">@anim/base_share_window_out</item>
+    </style>
+
+    <style name="AppBaseDialogTheme" parent="android:Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+	
+	<style name="AppTheme" parent="android:Theme.Light" />
+    
+    <style name="Animations_PopDownMenu_Top">
+        <item name="android:windowEnterAnimation">@anim/x_push_down_out</item>
+        <item name="android:windowExitAnimation">@anim/x_push_up_in</item>
+    </style>
+    <style name="Animations_PopDownMenu_Bottom">
+        <item name="android:windowEnterAnimation">@anim/x_push_up_out</item>
+        <item name="android:windowExitAnimation">@anim/x_push_down_in</item>
+    </style>
+   	<style name="progress_loading" parent="@android:style/Widget.ProgressBar.Small">
+        <item name="android:indeterminateDrawable">@anim/loading</item>
+        <item name="android:layout_width">26dp</item>
+        <item name="android:layout_height">26dp</item>
+    </style>
+
+</resources>
